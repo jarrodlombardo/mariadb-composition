@@ -3,7 +3,7 @@ from datetime import date, datetime, time
 
 import pytest
 
-from mariadb_composition.sql import PyFormat, Sql
+from mariadb_composition import PyFormat, Sql
 
 
 def test_Composable():
