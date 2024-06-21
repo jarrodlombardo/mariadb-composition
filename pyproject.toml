@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mariadb_composition"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="Jarrod Lombardo", email="jarrodl@gmail.com" },
 ]
